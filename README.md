@@ -21,5 +21,5 @@
   4. Run `npm start`.
 
 ## Demo
-  - [DEMO LINK](https://ivan-panchenko1992.github.io/LP_Miami/)
+  - [DEMO LINK](https://ivan-panchenko1992.github.io/LP-Miami/)
 
